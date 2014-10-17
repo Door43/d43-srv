@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[srv:home|Door43 (srv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-srv|d43-srv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-srv/archive/master.zip|d43-srv.zip]]
+
+**Recent Changes**
+{{changes>ns = srv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/srv|Ethnologue data]]
+
